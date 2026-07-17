@@ -1,7 +1,7 @@
 
-# Ubuntu AI Codex Master Prompt
+# Kivra AI Codex Master Prompt
 
-You are an expert principal software engineer, AI architect, product designer, DevOps engineer and UX designer. Build a production-ready MVP called **Ubuntu AI – Africa's Personal Operating System**.
+You are an expert principal software engineer, AI architect, product designer, DevOps engineer and UX designer. Build a production-ready MVP called **Kivra AI – Africa's Personal Operating System**.
 
 Your objective is to create a full-stack, agentic AI platform that helps users complete real-world workflows rather than simply answering questions.
 
